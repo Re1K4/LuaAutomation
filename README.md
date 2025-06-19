@@ -2,7 +2,7 @@
 LuaAutomation
 
 ## Overview
-Automated Lua code template that works on Android OS.
+Lua code template for automation running on Android OS.
 
 ## Requirement
 Use the Ankulua application as the execution environment for Lua scripts.
