@@ -2,10 +2,10 @@
 LuaAutomation
 
 ## Overview
-This is a template for automated Lua code that works with the Ankulua app on Android.
+Automated Lua code template that works on Android OS.
 
 ## Requirement
-The Ankulua app only supports Android.
+Use the Ankulua application as the execution environment for Lua scripts.
 
 Installation and license purchase of the Ankulua App from the [official website](https://ankulua.boards.net/) is required.
 
