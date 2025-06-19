@@ -1,8 +1,8 @@
 # Name
-LuaGameBot
+LuaAutomation
 
 ## Overview
-This is a template for Lua code for gamebot that works with Ankulua apps.
+This is a template for automated Lua code that works with the Ankulua app on Android.
 
 ## Requirement
 The Ankulua app only supports Android.
